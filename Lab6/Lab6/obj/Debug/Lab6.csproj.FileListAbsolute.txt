@@ -1,0 +1,24 @@
+U:\cis300\scholars\spring17\github\Lab6\Lab6\bin\Debug\Lab6.exe.config
+U:\cis300\scholars\spring17\github\Lab6\Lab6\bin\Debug\Lab6.exe
+U:\cis300\scholars\spring17\github\Lab6\Lab6\bin\Debug\Lab6.pdb
+U:\cis300\scholars\spring17\github\Lab6\Lab6\bin\Debug\Cis300.Queues.dll
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.UserInterface.resources
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.exe
+U:\cis300\scholars\spring17\github\Lab6\Lab6\obj\Debug\Lab6.pdb
+U:\cis300\scholars\spring17\github\Lab6start\Lab6\bin\Debug\Lab6.exe.config
+U:\cis300\scholars\spring17\github\Lab6start\Lab6\obj\Debug\Lab6.exe
+U:\cis300\scholars\spring17\github\Lab6start\Lab6\obj\Debug\Lab6.pdb
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe.config
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.exe
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.pdb
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.exe
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\Lab6.pdb
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\CIS300.Queues.dll
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\bin\Debug\CIS300.Queues.pdb
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.csprojResolveAssemblyReference.cache
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.Properties.Resources.resources
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.UserInterface.resources
+C:\Users\bewew\Documents\Visual Studio 2015\Projects\Lab6\Lab6\obj\Debug\Lab6.csproj.GenerateResource.Cache

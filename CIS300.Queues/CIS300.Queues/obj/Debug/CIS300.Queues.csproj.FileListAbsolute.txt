@@ -1,0 +1,5 @@
+c:\users\bewew\documents\visual studio 2015\Projects\CIS300.Queues\CIS300.Queues\obj\Debug\CIS300.Queues.csprojResolveAssemblyReference.cache
+c:\users\bewew\documents\visual studio 2015\Projects\CIS300.Queues\CIS300.Queues\bin\Debug\CIS300.Queues.dll
+c:\users\bewew\documents\visual studio 2015\Projects\CIS300.Queues\CIS300.Queues\bin\Debug\CIS300.Queues.pdb
+c:\users\bewew\documents\visual studio 2015\Projects\CIS300.Queues\CIS300.Queues\obj\Debug\CIS300.Queues.dll
+c:\users\bewew\documents\visual studio 2015\Projects\CIS300.Queues\CIS300.Queues\obj\Debug\CIS300.Queues.pdb
